@@ -1,16 +1,15 @@
-# projeto_quizz
+# Project_quizz
 
 A new Flutter project.
 
-## Getting Started
+## Purpose
 
-This project is a starting point for a Flutter application.
+This is a quiz app made up in flutter for educational purposes.
 
-A few resources to get you started if this is your first Flutter project:
+## Lessons learned
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In this Application i could learn a little about some basic Widget's like:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Stateless and Statefull Widgets
+-RaisedButton and flat buttons (Basic Style components)
+-Basic of Column component
